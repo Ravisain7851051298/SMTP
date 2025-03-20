@@ -1,0 +1,23 @@
+{
+  "name": "smtp",
+  "version": "1.0.0",
+  "description": "fake SMTP service using ethrial email engian",
+  "main": "email.js",
+  "scripts": {
+    "test": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ravisain7851051298/SMTP.git"
+  },
+  "author": "ravi sain",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Ravisain7851051298/SMTP/issues"
+  },
+  "homepage": "https://github.com/Ravisain7851051298/SMTP#readme",
+  "dependencies": {
+    "nodemailer": "^6.10.0",
+    "smtp-server": "^3.13.6"
+  }
+}
